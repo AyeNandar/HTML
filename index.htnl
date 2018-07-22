@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My project</title>
+	<link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+	<div id="container">
+		<div class="head">
+			<img src="image/06.jpg" class="logo">
+			<h1 class="main">Geo_Flower Team</h1>
+			<h2 class="sub">Welcome to my site</h2>
+			<div class="logreg">
+				<p class="regp">Please Register</p>
+				<a href="#" class="log"> Login</a>
+				<a href="#" class="reg">Register</a>
+			</div>
+		</div>
+		<nav>
+			<ul>
+			<li><a href="#">Home</a></li>
+			<li class="class"> <a href="#">Team Members</a>
+				<ul id="class">
+					<li><a href="#">Mg Kyaw Zin Aung</a></li>
+					<li><a href="#">Ma Aye Nandar Htunn</a></li>
+					<li><a href="#">Ma Aye Thandar Aung</a></li>
+					<li><a href="#">Ma Nann Lae Lae Aung</a></li>
+					<li><a href="#">Ma Thin Mar Win</a></li>
+					<li><a href="#">Ma Zin Mar Nwe</a></li>
+
+				</ul>
+
+
+
+			</li>
+			<li class="dir"><a href="#">Directors</a>
+				<ul id="dir">
+					<li>
+					<a href="#">U Ravi Charbra</a>
+				</li></ul>
+
+			</li>
+			<li class="pro"><a href="#">Product</a>
+				<ul id="pro">
+					<li><a href="#">Apps in Myanmar</a></li>
+				</ul>
+
+
+			</li>
+			<li class="sup"><a href="#">Supervisors</a>
+				<ul id="sup">
+					<li><a href="#">Daw Min Min Su</a></li>
+				</ul>
+
+			</li>
+			<li><a href="#">Content</a></li>
+
+	</ul>
+			
+		</nav>
+		<img src="image/02.jpg" alt="main" class="main_image" >
+		<div id="image1">
+			<div id="images">
+			<img src="image/01.jpg" class="image1">
+		</div>
+			<p align="center">Mg Kyaw Zin Aung</p>
+		</div>
+		<div  id="image2">
+			<div id="images">
+		<img src="image/03.jpg"  class="image2">
+	</div>
+		<p align="center">Ma Aye Nandar Htun</p>
+	</div>
+	<div id="image3">
+		<div id="images">
+		<img src="image/04.jpg"  class="image3">
+	</div>
+		<p align="center">Ma Aye Thandar Aung</p>
+	</div>
+	<div id="image4">
+		<div id="images">
+		<img src="image/05.jpg" class="image4">
+	</div>
+		<p align="center">Ma Nann Lae Lae Aung</p>
+	</div>
+	<div id="image5">
+		<div id="images">
+		<img src="image/06.jpg" class="image5">
+	</div>
+		<p align="center">Ma Thin Mar Win</p>
+	</div>
+	<div id="image6">
+		<div id="images">
+		<img src="image/07.jpg" class="image6">
+	</div>
+		<p align="center">Ma Zin Mar Nwe</p>
+	</div>
+		
+
+
+	</div>
+	
+	
+
+</body>
+</html>
